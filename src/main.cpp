@@ -16,10 +16,8 @@
 #include <Arduino.h>
 
 // ============================================
-// YOUR NAME AND DATE GO HERE (uncomment and edit the line below):
-// 
-// Author: DJ Weymuth
-// Date:   Dec 2, 2025
+// Author: James Coors
+// Date:   Dec 3, 2025
 // ============================================
 
 
